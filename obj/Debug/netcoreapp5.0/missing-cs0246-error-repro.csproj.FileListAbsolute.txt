@@ -1,0 +1,7 @@
+/Users/tanay/dev/missing-cs0246-error-repro/obj/Debug/netcoreapp5.0/missing-cs0246-error-repro.csprojAssemblyReference.cache
+/Users/tanay/dev/missing-cs0246-error-repro/obj/Debug/netcoreapp5.0/missing-cs0246-error-repro.csproj.CoreCompileInputs.cache
+/Users/tanay/dev/missing-cs0246-error-repro/obj/Debug/netcoreapp5.0/missing-cs0246-error-repro.MvcApplicationPartsAssemblyInfo.cache
+/Users/tanay/dev/missing-cs0246-error-repro/obj/Debug/netcoreapp5.0/missing-cs0246-error-repro.RazorAssemblyInfo.cache
+/Users/tanay/dev/missing-cs0246-error-repro/obj/Debug/netcoreapp5.0/missing-cs0246-error-repro.RazorAssemblyInfo.cs
+/Users/tanay/dev/missing-cs0246-error-repro/obj/Debug/netcoreapp5.0/missing-cs0246-error-repro.AssemblyInfoInputs.cache
+/Users/tanay/dev/missing-cs0246-error-repro/obj/Debug/netcoreapp5.0/missing-cs0246-error-repro.AssemblyInfo.cs

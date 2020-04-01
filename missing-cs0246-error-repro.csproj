@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+    <RootNamespace>missing_cs0246_error_repro</RootNamespace>
+  </PropertyGroup>
+
+
+
+</Project>
